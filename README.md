@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elmasrymosty 
-- 👀 I’m interested in ... PROGRAMare  (html,css,php,sql,c++)
+- 👀 I’m interested in ... LIMBAJ DE  PROGRAMare  (html,css,php,sql,c++)/(linux-windoiws-virtual machin )
 - 🌱 I’m currently learning ...(java-oracle-python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...(moustafaelgohari@yahoo.com)
